@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	padding: 20px;
+	text-align: center;
+	color: #5093C2;
+}
+
+table{
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+td, th{
+	padding: 10px;
+	border: 1px solid #888888;
+}
+
+a{
+	display: block;
+	text-decoration: none;
+	width: 100px;
+	margin: 10px auto;
+	padding: 5px;
+	text-align: center;
+	background: #ccc;
+	color: #444;
+	font-size: 20px;
+	box-shadow: 4px 4px 0px #888;
+	font-weight: bold;
+}
+
+form{
+	width: 300px;
+	margin: auto;
+	background: #ccc;
+	padding: 20px;
+	border: 1px solid #444;
+}
+
+.field{
+	padding: 10px 0;
+}
+.field label{
+	font-weight: bold;
+}
+.field	input,	.field	textarea{
+	padding:	8px;
+	border:	1px	solid	#ccc;
+	border-radius:	5px;
+	font-size:	18px;
+	width:	280px;
+}
+
+.actions input{
+	padding:	8px;
+	border:	1px	solid	#CCC;
+	border-radius:	5px;
+	font-size:	18px;
+	width:	280px;
+	background:	#83B5D8;
+	color:	#444;
+}
+
+p{
+	width: 300px;
+	font-size: 20px;
+	margin: auto;
+	padding: 10px 0;
+	color: #444;
+}
+p#notice{
+		color:	#76a3da;
+}
